@@ -1,0 +1,11 @@
+D:\MVC\BookShoppingAPP\BookApp.Model\bin\Debug\net10.0\BookApp.Model.deps.json
+D:\MVC\BookShoppingAPP\BookApp.Model\bin\Debug\net10.0\BookApp.Model.dll
+D:\MVC\BookShoppingAPP\BookApp.Model\bin\Debug\net10.0\BookApp.Model.pdb
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.AssemblyInfoInputs.cache
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.AssemblyInfo.cs
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.csproj.CoreCompileInputs.cache
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.dll
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\refint\BookApp.Model.dll
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\BookApp.Model.pdb
+D:\MVC\BookShoppingAPP\BookApp.Model\obj\Debug\net10.0\ref\BookApp.Model.dll
