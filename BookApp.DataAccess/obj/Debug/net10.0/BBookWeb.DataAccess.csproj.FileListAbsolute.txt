@@ -1,0 +1,17 @@
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.DataAccess.deps.json
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.DataAccess.runtimeconfig.json
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.DataAccess.dll
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.DataAccess.pdb
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.Model.dll
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\bin\Debug\net10.0\BBookWeb.Model.pdb
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.csproj.AssemblyReference.cache
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.AssemblyInfoInputs.cache
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.AssemblyInfo.cs
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.csproj.CoreCompileInputs.cache
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.E291D316.Up2Date
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.dll
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\refint\BBookWeb.DataAccess.dll
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.pdb
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\BBookWeb.DataAccess.genruntimeconfig.cache
+D:\MVC\BookShoppingAPP\BookApp.DataAccess\obj\Debug\net10.0\ref\BBookWeb.DataAccess.dll
